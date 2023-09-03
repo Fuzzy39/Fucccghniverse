@@ -1,3 +1,4 @@
+#story 
 The main story of the Fucccghniverse is comprised of 7+ arcs.
 
 [[Arc 1: William Fucccgh (Pronounced Foo)]]

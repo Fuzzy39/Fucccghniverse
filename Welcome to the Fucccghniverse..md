@@ -1,3 +1,4 @@
+#meta
 [[The Old Lore]] 
 
 While I've made some efforts to write down what exactly this is in the past, I quickly bored of the efforts. Alternatively, I had enough sense to realize the complete idiocy of what I was writing and save myself.
@@ -9,7 +10,7 @@ Whatever the case, I'm back again. The Fucccgniverse has been described in a num
 What is the Fucccghniverse?
 ---
 Put simply, The Fucccghniverse is a tightly wound bundle of sensible nonsense.
-It's central story follows a certain [[Character: William Fucccgh]], A cosmic entity who, through his negligence and carefree acts of wanton mischief, broke the rules of both the gods and reality itself, creating the [[Chaos Realms]] in the process.
+It's central story follows a certain [[William Fucccgh]], A cosmic entity who, through his negligence and carefree acts of wanton mischief, broke the rules of both the gods and reality itself, creating the [[Chaos Realms]] in the process.
 
 He eventually learns that he must become responsible and stand with the mortals he created in order to right his previous wrongs, and change the[[Normal Realm | galaxy]] forever in the process.
 

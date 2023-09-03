@@ -1,4 +1,4 @@
- 
+ #lore
 ### The Power of Fusion
 
 Gods are the culmination of spirit and will; created when matter is coerced beyond its typical limits.
@@ -16,8 +16,8 @@ Major gods are born in the hearts of stars. They represent their star, and they 
 
 Some notable major gods are:
 
-[[Character: Sol, Goddess of the Sun]]
-[[Character: The Neutral One, God of Eta Lyrae]]
+[[Sol, Goddess of the Sun]]
+[[The Neutral One]]
 
 
 ### Minor Gods
@@ -29,8 +29,8 @@ Minor gods can with some effort migrate from one planet to any of it's moons, bu
 
 Notable minor gods in the solar system include:
 
-[[Character: William Fucccgh]], Trickster god of Earth, and main character in all of this nonsense.
-[[Character: Lyssandra]], Perpetually sleep-deprived goddess of the Moon
+[[William Fucccgh]], Trickster god of Earth, and main character in all of this nonsense.
+[[Lyssandra]], Perpetually sleep-deprived goddess of the Moon
 and others that have yet to been named
 
 5 other gods of earth
